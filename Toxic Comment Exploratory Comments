@@ -1,0 +1,16 @@
+Toxic Comments classification
+Exploratory Data Analysis
+
+Purpose- To distinguish between toxic comments and pure intention comments. 
+The goal is not to judge the comments but to prevents unnecessary consequences.
+
+How- Language Classification
+
+Human Language is so complex. 
+Let start with English Language. 
+English Language combines with sentences, words and punctuations.
+
+Comments classifies to fields as sentences counts, words count and punctuations. 
+And then a fields that classified that toxic words with common words.
+
+Than do the exploratory data analysis.
